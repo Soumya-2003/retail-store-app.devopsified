@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Checkout Service
 
-<!-- GitOps Test2: Testing improved change detection workflow -->
+<!-- GitOps Tests2: Testing improved change detection workflow -->
 
 | Language | Persistence |
 | -------- | ----------- |
