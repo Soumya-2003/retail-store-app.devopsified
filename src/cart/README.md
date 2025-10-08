@@ -1,6 +1,6 @@
 # AWS Containers Retail Sample - Cart Service
 
-<!-- GitOps Test2: Multi-service deploy test - Cart -->
+<!-- GitOps Test3: Multi-service deploy test - Cart -->
 
 | Language | Persistence     |
 | -------- | --------------- |
